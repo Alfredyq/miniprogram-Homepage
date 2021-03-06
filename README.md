@@ -3,6 +3,7 @@
 
 #### 效果演示
 微信搜索 『yeqi』，或者直接扫码
+![image](https://user-images.githubusercontent.com/53503115/110198098-f40cd380-7e8a-11eb-8897-78b434d892a2.png)
 
 
 #### 个人简历
